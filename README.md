@@ -5,9 +5,9 @@
 </a>
 
 ###### Ever wondered the amount of water being wasted as grey water from commercial areas, Hotels, Restaurants, Laundry sectors etc.  containing soapy water with unwanted pathogens and having no solution to treat this global crisis ? <br>
-Here we are with a simple yet effective solution for the issue developed by the team AquaSol.
+Here we are with a simple yet effective solution for the issue developed by team AquaSol.
 
-### We are team AquaSol and we won the First runner Up at the smart India Hackathon 2022. 
-#### Our Round 2 presentation 
+### AquaSol won the First runner Up at the smart India Hackathon 2022. 
+#### View the Round 2 presentation 
 
-https://www.youtube.com/watch?v=bSBih-Qjwuo
+[Round 2 Presentation](https://www.youtube.com/watch?v=bSBih-Qjwuo)
